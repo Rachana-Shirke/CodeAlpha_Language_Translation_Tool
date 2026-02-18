@@ -1,4 +1,4 @@
-# CodeAlpha Language Translation Tool
+# Language Translation Tool
 
 This project is developed as part of the CodeAlpha Artificial Intelligence Internship.
 
