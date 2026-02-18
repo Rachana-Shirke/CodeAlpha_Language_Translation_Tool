@@ -1,6 +1,6 @@
 # Language Translation Tool
 
-This project is developed as part of the CodeAlpha Artificial Intelligence Internship.
+This project is developed as part of the CodeAlpha Artificial Intelligence Internship.This project was developed as part of an Artificial Intelligence internship to demonstrate practical implementation of language translation using APIs.
 
 ## Task Description
 A language translation tool that allows users to:
